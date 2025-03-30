@@ -1,0 +1,12 @@
+[
+    {
+      "soru": "2 + 2 kaçtır?",
+      "cevaplar": ["3", "4", "5", "6"],
+      "dogru_cevap": "4"
+    },
+    {
+      "soru": "Dünyanın başkenti neresidir?",
+      "cevaplar": ["Berlin", "Paris", "Londra", "Ankara"],
+      "dogru_cevap": "Ankara"
+    }
+  ]

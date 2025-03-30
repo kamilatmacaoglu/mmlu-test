@@ -1,0 +1,30 @@
+{
+    "model_adi": "distilbert-base-uncased-finetuned-sst-2-english",
+    "toplam_soru": 2,
+    "dogru_sayisi": 1,
+    "dogruluk": 0.5,
+    "sonuclar": [
+        {
+            "soru": "2 + 2 ka\u00c3\u00a7t\u00c4\u00b1r?",
+            "cevaplar": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "dogru_cevap": "4",
+            "modelin_tahmini": "3"
+        },
+        {
+            "soru": "D\u00c3\u00bcnyan\u00c4\u00b1n ba\u00c5\u0178kenti neresidir?",
+            "cevaplar": [
+                "Berlin",
+                "Paris",
+                "Londra",
+                "Ankara"
+            ],
+            "dogru_cevap": "Ankara",
+            "modelin_tahmini": "Ankara"
+        }
+    ]
+}
